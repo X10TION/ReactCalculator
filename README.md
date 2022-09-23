@@ -1,4 +1,4 @@
-# Building React calcultor
+# Building React calculator
 
 
 
